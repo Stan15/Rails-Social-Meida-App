@@ -6,4 +6,5 @@ Created a sample twitter-like social media app by following the Ruby on Rails co
 - Access control (admin vs regular users)
 - Users can make posts with images
 - Users can follow other users
+- App developed using test driven development
 - and more...
