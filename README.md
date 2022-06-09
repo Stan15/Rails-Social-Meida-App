@@ -1,2 +1,2 @@
 # Rails-Social-Meida-App
-Ruby on rails social media app created from learnenough.com course
+Created a sample twitter-like social media app by following the Ruby on Rails course at [learnenough.com](https://www.learnenough.com/)
